@@ -1,8 +1,8 @@
 # Data for: The age of rivalry: Shifting competitive hierarchies through ontogeny in native and invasive stream fishes
 
-Supplementary data for the following publication:
+Supplementary data for the following publication (in review):
 
-Diallo, Jessica O. & Julian D. Olden. In Review. "The age of rivalry: Shifting competitive hierarchies through ontogeny in native and invasive stream fishes." _Ecology Letters._
+Diallo, Jessica O. & Julian D. Olden. "The age of rivalry: Shifting competitive hierarchies through ontogeny in native and invasive stream fishes."
 
 
 
